@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/dp50mm/digital-food-platform/master/images/project-title.png "Digital Food")
+![alt text](https://raw.githubusercontent.com/dp50mm/digital-food-platform/master/Documentation/images/project-title.png "Digital Food")
 
 # digital-food-platform
 This is the repository for the Digital Food project. It is the central location for the design files, documentation, collaboration and any other information related to this project.
